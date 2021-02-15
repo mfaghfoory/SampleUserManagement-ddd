@@ -1,0 +1,12 @@
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\obj\Debug\netcoreapp3.1\SampleUserManagement.Domain.csprojAssemblyReference.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\obj\Debug\netcoreapp3.1\SampleUserManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\obj\Debug\netcoreapp3.1\SampleUserManagement.Domain.AssemblyInfo.cs
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\obj\Debug\netcoreapp3.1\SampleUserManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\bin\Debug\netcoreapp3.1\SampleUserManagement.Domain.deps.json
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\bin\Debug\netcoreapp3.1\SampleUserManagement.Domain.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\bin\Debug\netcoreapp3.1\SampleUserManagement.Domain.pdb
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\bin\Debug\netcoreapp3.1\SampleUserManagement.Common.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\bin\Debug\netcoreapp3.1\SampleUserManagement.Common.pdb
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\obj\Debug\netcoreapp3.1\SampleUserManagement.Domain.csproj.CopyComplete
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\obj\Debug\netcoreapp3.1\SampleUserManagement.Domain.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Domain\obj\Debug\netcoreapp3.1\SampleUserManagement.Domain.pdb

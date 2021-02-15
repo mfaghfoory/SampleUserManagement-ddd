@@ -1,0 +1,17 @@
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\obj\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.csprojAssemblyReference.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\obj\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.AssemblyInfoInputs.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\obj\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.AssemblyInfo.cs
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\obj\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.csproj.CoreCompileInputs.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\bin\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.deps.json
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\bin\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.runtimeconfig.json
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\bin\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.runtimeconfig.dev.json
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\bin\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\bin\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.pdb
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\bin\Debug\netcoreapp3.1\SampleUserManagement.Common.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\bin\Debug\netcoreapp3.1\SampleUserManagement.Domain.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\bin\Debug\netcoreapp3.1\SampleUserManagement.Domain.pdb
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\bin\Debug\netcoreapp3.1\SampleUserManagement.Common.pdb
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\obj\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.csproj.CopyComplete
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\obj\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\obj\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.pdb
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Datalayer\obj\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Common\bin\Debug\netcoreapp3.1\SampleUserManagement.Common.deps.json
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Common\bin\Debug\netcoreapp3.1\SampleUserManagement.Common.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Common\bin\Debug\netcoreapp3.1\SampleUserManagement.Common.pdb
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Common\obj\Debug\netcoreapp3.1\SampleUserManagement.Common.csprojAssemblyReference.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Common\obj\Debug\netcoreapp3.1\SampleUserManagement.Common.AssemblyInfoInputs.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Common\obj\Debug\netcoreapp3.1\SampleUserManagement.Common.AssemblyInfo.cs
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Common\obj\Debug\netcoreapp3.1\SampleUserManagement.Common.csproj.CoreCompileInputs.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Common\obj\Debug\netcoreapp3.1\SampleUserManagement.Common.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Common\obj\Debug\netcoreapp3.1\SampleUserManagement.Common.pdb

@@ -1,0 +1,16 @@
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\obj\Debug\netcoreapp3.1\SampleUserManagement.Repository.csprojAssemblyReference.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\obj\Debug\netcoreapp3.1\SampleUserManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\obj\Debug\netcoreapp3.1\SampleUserManagement.Repository.AssemblyInfo.cs
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\obj\Debug\netcoreapp3.1\SampleUserManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\bin\Debug\netcoreapp3.1\SampleUserManagement.Repository.deps.json
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\bin\Debug\netcoreapp3.1\SampleUserManagement.Repository.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\bin\Debug\netcoreapp3.1\SampleUserManagement.Repository.pdb
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\bin\Debug\netcoreapp3.1\SampleUserManagement.Common.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\bin\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\bin\Debug\netcoreapp3.1\SampleUserManagement.Domain.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\bin\Debug\netcoreapp3.1\SampleUserManagement.Datalayer.pdb
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\bin\Debug\netcoreapp3.1\SampleUserManagement.Domain.pdb
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\bin\Debug\netcoreapp3.1\SampleUserManagement.Common.pdb
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\obj\Debug\netcoreapp3.1\SampleUserManagement.Repository.csproj.CopyComplete
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\obj\Debug\netcoreapp3.1\SampleUserManagement.Repository.dll
+C:\Users\meysam\Desktop\SampleUserManagement\SampleUserManagement.Repository\obj\Debug\netcoreapp3.1\SampleUserManagement.Repository.pdb
