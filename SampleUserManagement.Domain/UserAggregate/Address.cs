@@ -45,7 +45,8 @@
             return obj is Address address &&
                    FullAddress == address.FullAddress &&
                    Mobile == address.Mobile &&
-                   Email == address.Email;
+                   Email == address.Email &&
+                   UserId == address.UserId;
         }
 
         public static bool operator ==(Address obj1, Address obj2)
